@@ -3,7 +3,8 @@
 This is to provide a simple json responder on a windows iis box to display consumalbe information on the servers state and services
 
 This is an example expected result
-`[
+
+```[
   {
     "serverInfo": [
       {
@@ -256,4 +257,4 @@ This is an example expected result
       }
     ]
   }
-]`
+]```
