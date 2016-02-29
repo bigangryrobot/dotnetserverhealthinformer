@@ -1,0 +1,8 @@
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\bin\Debug\DotNetHealthInformer.exe.config
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\bin\Debug\DotNetHealthInformer.exe
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\bin\Debug\DotNetHealthInformer.pdb
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\obj\Debug\DotNetHealthInformer.csprojResolveAssemblyReference.cache
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\obj\Debug\DotNetHealthInformer.exe
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\obj\Debug\DotNetHealthInformer.pdb
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\bin\Debug\Newtonsoft.Json.dll
+c:\users\cbeverlin\documents\visual studio 2013\Projects\DotNetHealthInformer\DotNetHealthInformer\bin\Debug\Newtonsoft.Json.xml
